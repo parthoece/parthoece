@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Partho Adhikari
+# Hi, I'm Partho Adhikari
 
  Recent M.S. graduate in Electrical Engineering & Computer Science from NYCU (National Yang Ming Chiao Tung University), Taiwan  
  Former Graduate Research Assistant at the High Speed Network Lab (NYCU)  
