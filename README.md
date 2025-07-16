@@ -1,8 +1,9 @@
-#  Hi, I'm Partho Adhikari
+# 👋 Hi, I'm Partho Adhikari
 
- Graduate Research Assistant at NYCU (National Yang Ming Chiao Tung University), Taiwan  
- Currently pursuing an M.S. in Electrical Engineering & Computer Science  
- Actively seeking full-time opportunities in **AI/ML**, **Data Science**, or **Cloud/Data Engineering**
+ Recent M.S. graduate in Electrical Engineering & Computer Science from NYCU (National Yang Ming Chiao Tung University), Taiwan  
+ Former Graduate Research Assistant at the High Speed Network Lab (NYCU)  
+Actively seeking full-time opportunities in **AI/ML**, **Data Science**, or **Cloud/Data Engineering**
+
 
 ---
 
