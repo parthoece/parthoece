@@ -1,49 +1,34 @@
 # Hi, I'm Partho Adhikari
 
- Recent M.S. graduate in Electrical Engineering & Computer Science from NYCU (National Yang Ming Chiao Tung University), Taiwan  
- Former Graduate Research Assistant at the High Speed Network Lab (NYCU)  
-Actively seeking full-time opportunities in **AI/ML**, **Data Science**, or **Cloud/Data Engineering**
+I am a **Software Engineer based in Taiwan** with experience in equipment software, smart manufacturing, computer vision, and AI-powered inspection systems.
 
+Currently, I develop **C# and Windows Forms HMI/GUI applications** for high-precision manufacturing equipment. My work includes AOI defect detection, industrial camera SDK integration, image acquisition, lighting configuration, software troubleshooting, and collaboration with internal stakeholders to define project requirements.
 
----
+I hold an **M.S. in Electrical Engineering and Computer Science** from **National Yang Ming Chiao Tung University (NYCU), Taiwan**.
 
-##  About Me
+## Technical Skills
 
-I'm a hands-on engineer and researcher with experience in:
-- **Cyber-Physical Systems (CPS)** and **Anomaly Detection** for Industrial Control Systems (ICS)
-- Building end-to-end **machine learning pipelines**, from data preprocessing to model deployment
-- **Cloud-based data engineering** using AWS services like S3, Glue, Lambda, and Athena
-- Creating interactive **data visualizations** using D3.js to drive insights from complex datasets
+* **Languages:** C#, Python, SQL, C/C++, MATLAB
+* **Software Development:** Windows Forms, HMI/GUI, equipment software, debugging, testing
+* **Machine Vision:** AOI, industrial camera SDKs, image acquisition, lighting, defect detection
+* **AI/ML:** PyTorch, TensorFlow, Scikit-learn, ONNX, YOLO, CNNs
+* **Data and Tools:** PostgreSQL, ETL, Git, Docker, CI/CD
 
----
+## Selected Graduate Projects
 
-##  Highlights
+* Developed a two-stage OT anomaly-detection system with a **99% F1-score**
+* Published research on real-time safety helmet detection using **YOLOv8l**, achieving **95% mAP at 30 FPS**
+* Built an interactive dashboard for visualizing UNHCR refugee migration data
+* Ranked **16th out of 297 teams** in ASIS CTF
 
--  Developed a two-stage anomaly detection system for OT security (99% F1-score)
--  Built a live dashboard to visualize UNHCR refugee migration trends
--  Published research on real-time safety helmet detection with YOLOv8l (95% mAP @ 30 FPS)
--  Training in AWS Data Engineering (ETL, PySpark, Glue, CI/CD, Hackathons)
--  CTF Finalist — Ranked 16/297 in ASIS CTF and 114/959 in UIU CTF
+## Open to Opportunities
 
----
+I am open to opportunities in:
 
-## Tools & Technologies
+**Software Engineering · Equipment Software · Smart Manufacturing · AOI · Machine Vision · Computer Vision · AI/ML · Industrial Automation · Data Engineering**
 
-**Languages:** Python, SQL, C/C++, R  
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Keras, YOLO  
-**Cloud:** AWS (S3, IAM, KMS, Lambda, Glue, Athena)  
-**Data Engineering:** ETL/ELT, PySpark, Docker, GitHub Actions  
-**Visualization:** D3.js, Pandas, Matplotlib, Tableau  
-**LLMs/NLP:** Prompt Engineering, Retrieval-Augmented Generation (RAG), Transformers  
+## Contact
 
----
-
-##  Let's Connect!
-
-- 📧 Email: [parthoece23@gmail.com](mailto:parthoece23@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/parthoece](https://linkedin.com/in/parthoece)  
-- 📂 Resume: [View My Resume (PDF)](https://github.com/parthoece/parthoece/blob/main/resume.pdf)
-
----
-
-Thanks for visiting my GitHub! I'm open to collaborating on meaningful AI/ML and data-focused projects. Feel free to reach out!
+* **Email:** [parthoece23@gmail.com](mailto:parthoece23@gmail.com)
+* **LinkedIn:** [linkedin.com/in/parthoece](https://linkedin.com/in/parthoece)
+* **Resume:** [View My Resume](https://github.com/parthoece/parthoece/blob/main/resume.pdf)
