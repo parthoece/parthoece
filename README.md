@@ -63,4 +63,4 @@ My graduate and independent work has included industrial anomaly detection, comp
 
 ## Contact
 
-**[LinkedIn](https://linkedin.com/in/parthoece)** · **[Resume](https://github.com/parthoece/parthoece/blob/main/resume.pdf)** · **[Email](mailto:parthoece23@gmail.com)**
+**[Email](mailto:parthoece23@gmail.com)**
