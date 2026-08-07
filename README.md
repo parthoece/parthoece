@@ -1,71 +1,66 @@
-# Hi, I'm Partho Adhikari
+# Partho Adhikari
 
-I am a **Software Engineer based in Taiwan** specializing in **equipment software, smart manufacturing, machine vision, and AI-powered inspection systems**.
+**Software Engineer — Equipment Software · Machine Vision · Smart Manufacturing**
 
-I design and develop software for **high-precision manufacturing equipment and smart factory applications**. My work frequently involves integrating **MATLAB-based algorithms packaged as C++ DLLs** into **C# Windows Forms applications** used by equipment operators.
+Based in Taiwan. I develop software for **high-precision manufacturing equipment, automated inspection systems, and factory integration**.
 
-I also develop and integrate software for:
+My work sits at the boundary between **equipment hardware, algorithms, operator applications, vision systems, and manufacturing infrastructure**. I build and integrate C#/.NET equipment applications, machine-vision components, industrial device interfaces, manufacturing data flows, and algorithm modules used in production equipment.
 
-* AOI and defect-detection systems
-* Industrial cameras and camera SDKs
-* Barcode readers and traceability systems
-* Lighting and image-acquisition components
-* Databases and manufacturing data processing
-* Third-party software and equipment interfaces
+A recurring part of my work is integrating **MATLAB-developed algorithms packaged as C++ DLLs into C# equipment software**, together with industrial cameras, lighting systems, barcode readers, databases, and third-party equipment interfaces.
 
-My responsibilities include software architecture and implementation, requirements analysis, system integration, testing, debugging, and production troubleshooting.
+My engineering focus includes:
 
-I hold an **M.S. in Electrical Engineering and Computer Science** from **National Yang Ming Chiao Tung University (NYCU), Taiwan**.
+* **Equipment software:** C#/.NET, Windows desktop applications, HMI/operator workflows, machine states, device SDK integration, diagnostics, fault handling, testing, and production troubleshooting
+* **Machine vision & inspection:** AOI, industrial cameras, image acquisition, lighting, defect detection, computer vision, and inference integration
+* **Manufacturing integration:** equipment data, traceability, MES-style workflows, PostgreSQL, event-driven systems, APIs, and industrial interfaces
+* **Reliability & architecture:** hardware abstraction, simulation, fault injection, recovery behavior, observability, automated testing, and maintainable system boundaries
 
-## Technical Skills
+Primary technologies include **C#, .NET, C/C++, Python, SQL, MATLAB, PostgreSQL, Docker, PyTorch, ONNX, OpenCV/vision tooling, and Git-based CI/CD**.
 
-* **Programming Languages:** C#, Python, SQL, C/C++, MATLAB
-* **Equipment Software:** Windows Forms, operator interfaces, HMI/GUI development, system integration, debugging, and testing
-* **Machine Vision:** AOI, industrial camera SDKs, image acquisition, lighting configuration, and defect detection
-* **AI and Machine Learning:** PyTorch, TensorFlow, Scikit-learn, ONNX, YOLO, and convolutional neural networks
-* **Data and Infrastructure:** PostgreSQL, ETL pipelines, Git, Docker, and CI/CD
+## Selected Engineering Systems
 
-## Notable Open-Source Projects
+### Virtual Multi-Axis Motion Control Platform
 
-### FabiQ Smart Factory
+[**multiaxis-motion-sim**](https://github.com/parthoece/multiaxis-motion-sim)
 
-A smart manufacturing platform focused on factory operations, equipment data, and production visibility.
+Software-in-the-loop virtual commissioning environment for industrial machine-control software. The system models deterministic XYZ motion, equipment states, inspection workflows, operator cancellation, abnormal conditions, fault recovery, persistence, and replaceable motion-controller backends.
 
-[View the project on GitHub](https://github.com/parthoece/fabiq-smart-factory)
+Built around C#/.NET and WPF with deterministic simulation, grblHAL integration, automated tests, architecture checks, and runtime diagnostics.
 
 ### Virtual Smart Motion Cell
 
-A software-based simulation of an intelligent manufacturing cell for motion, equipment, and workflow integration.
+[**virtual-smart-motion-cell**](https://github.com/parthoece/virtual-smart-motion-cell)
 
-[View the project on GitHub](https://github.com/parthoece/virtual-smart-motion-cell)
+Open-source reference implementation of a software-defined industrial machine cell.
 
-### FabPulse Data Platform
+The platform combines a headless .NET machine runtime, motion abstraction, operator HMI, Three.js digital twin, OPC UA, MES integration, traceability, observability, fault injection, restart recovery, and automated integration testing.
 
-A manufacturing data platform designed for equipment data collection, processing, and operational analytics.
+The architecture explores modular machine-control software with explicit separation between domain behavior, application orchestration, infrastructure, industrial protocols, and operator interfaces.
 
-[View the project on GitHub](https://github.com/parthoece/fabpulse-data-platform)
+### Fabiq Smart Factory
 
-## Selected Academic and Technical Projects
+[**fabiq-smart-factory**](https://github.com/parthoece/fabiq-smart-factory)
 
-* Developed a two-stage operational technology anomaly-detection system that achieved a **99% F1-score**
-* Conducted research on real-time safety helmet detection using **YOLOv8l**, achieving **95% mAP at 30 FPS**
-* Built an interactive dashboard for exploring and visualizing UNHCR refugee migration data
-* Ranked **16th out of 297 teams** in the ASIS Capture the Flag competition
-* Developed an AI-assisted threat-hunting project for cybersecurity investigation and analysis
+Reference implementation of an event-driven MES/IIoT platform for manufacturing operations.
 
-### Project Links
+The system connects simulated equipment events with Apache Kafka, ASP.NET Core services, PostgreSQL manufacturing history, operational APIs, anomaly detection, React dashboards, Prometheus/Grafana observability, and Docker-based deployment.
 
-* [UNHCR Migration Data Visualization](https://parthoece.github.io/dataviz/data_viz_project_v1/)
-* [Threat Hunter Agent](https://github.com/parthoece/threat_hunter_agent)
+It explores production visibility, equipment events, downtime, OEE, traceability, and extensible factory-system integration.
 
-## Open to Opportunities
+### Cyber-Physical Systems Testbed
 
-I am open to opportunities in:
+[**CPS_testbed**](https://github.com/parthoece/CPS_testbed)
 
-**Equipment Software Engineering · Smart Manufacturing · AOI and Machine Vision · Computer Vision · AI/ML Software Engineering · Manufacturing Software Integration**
+Docker-based industrial cyber-physical testbed integrating simulated processes, PLCs, HMIs, system logging, network capture, fault generation, and reproducible anomaly-detection experiments.
+
+The research built on this environment included a two-stage operational-technology anomaly-detection approach achieving a **99% F1-score**.
+
+## Background
+
+I hold an **M.S. in Electrical Engineering and Computer Science** from **National Yang Ming Chiao Tung University (NYCU), Taiwan**.
+
+My graduate and independent work has included industrial anomaly detection, computer vision, OT cybersecurity, and AI-assisted investigation systems. One computer-vision project achieved **95% mAP at 30 FPS** for real-time safety-helmet detection using YOLOv8l.
 
 ## Contact
 
-* **Email:** [parthoece23@gmail.com](mailto:parthoece23@gmail.com)
-* **LinkedIn:** [linkedin.com/in/parthoece](https://linkedin.com/in/parthoece)
-* **Resume:** [View Resume](https://github.com/parthoece/parthoece/blob/main/resume.pdf)
+**[LinkedIn](https://linkedin.com/in/parthoece)** · **[Resume](https://github.com/parthoece/parthoece/blob/main/resume.pdf)** · **[Email](mailto:parthoece23@gmail.com)**
