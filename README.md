@@ -53,14 +53,6 @@ It explores production visibility, equipment events, downtime, OEE, traceability
 
 Docker-based industrial cyber-physical testbed integrating simulated processes, PLCs, HMIs, system logging, network capture, fault generation, and reproducible anomaly-detection experiments.
 
-The research built on this environment included a two-stage operational-technology anomaly-detection approach achieving a **99% F1-score**.
-
-## Background
-
-I hold an **M.S. in Electrical Engineering and Computer Science** from **National Yang Ming Chiao Tung University (NYCU), Taiwan**.
-
-My graduate and independent work has included industrial anomaly detection, computer vision, OT cybersecurity, and AI-assisted investigation systems. One computer-vision project achieved **95% mAP at 30 FPS** for real-time safety-helmet detection using YOLOv8l.
-
 ## Contact
 
 **[Email](mailto:parthoece23@gmail.com)**
